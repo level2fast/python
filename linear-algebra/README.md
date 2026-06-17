@@ -20,9 +20,10 @@ This project is for learning Linear Algebra concepts.
 10. Singular Value Decomposition (SVD)
 11. QR Decomposition
 12. LU Decomposition
+13. Linear Regression
 
 # Goal
-Master LU, QR, and SVD
+Master LU, QR, and SVD, and Linear Regression
 
 # Linear Algebra Roadmap for LU, QR, and SVD
 
@@ -35,6 +36,17 @@ Learn:
 - Unit vectors
 - Dot product
 - Orthogonality
+
+Key equations:
+
+\[
+\|\mathbf{x}\|=\sqrt{x_1^2+x_2^2+\cdots+x_n^2}
+\]
+
+\[
+\mathbf{x}^T\mathbf{y}
+\]
+
 
 Why important:
 
@@ -53,6 +65,15 @@ Learn:
 - Identity matrix
 - Matrix inverse
 
+Key concepts:
+
+\[
+AB \neq BA
+\]
+
+\[
+A^{-1}A=I
+\]
 
 Why important:
 
@@ -111,6 +132,12 @@ Learn:
 - Basis vectors
 - Change of basis
 - Standard basis
+
+Example:
+
+\[
+\mathbf{x}=c_1\mathbf{v}_1+c_2\mathbf{v}_2
+\]
 
 Why important:
 
