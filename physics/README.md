@@ -1,4 +1,4 @@
-# SAR Study Order
+# Physics
 
 This study path is designed to build the mathematical and physical foundation needed to understand electromagnetic waves.
 
@@ -184,22 +184,6 @@ Radar transmissions are modeled as electromagnetic waves.
 #### Why It Matters
 
 Radar images are formed from reflected electromagnetic energy.
-
----
-
-### 8. Antennas
-
-#### Learn
-
-- Radiation patterns
-- Gain
-- Directivity
-- Beamwidth
-- Aperture
-
-#### Why It Matters
-
-Systems depend heavily on antenna characteristics.
 
 ---
 
