@@ -2,6 +2,30 @@
 
 This study path is designed to build the mathematical and physical foundation needed to understand electromagnetic waves.
 
+---
+# Learning Strategy
+1. Use AI to  create an Q & A study guide based on questions from schaums guide
+2. Work 2 problems on paper and 2 in python for each concept
+3. Use a AI to create an exam covering all topics.
+4. Get 80% on exam
+
+# Table of Contents
+
+- [Phase 1: Maxwell's Equations](#phase-1-maxwells-equations)
+  - [1. Gauss's Law for Electricity](#1-gausss-law-for-electricity)
+  - [2. Gauss's Law for Magnetism](#2-gausss-law-for-magnetism)
+  - [3. Faraday's Law](#3-faradays-law)
+  - [4. Ampère-Maxwell Law](#4-ampère-maxwell-law)
+- [Phase 2: Electromagnetic Waves](#phase-2-electromagnetic-waves)
+  - [5. Electromagnetic Wave Equation](#5-electromagnetic-wave-equation)
+  - [6. Plane Waves](#6-plane-waves)
+- [Phase 3: Wave Interactions](#phase-3-wave-interactions)
+  - [7. Reflection and Transmission](#7-reflection-and-transmission)
+  - [8. Antennas](#8-antennas)
+- [Final Goal](#final-goal)
+
+
+---
 ## Phase 1: Maxwell's Equations
 
 ### 1. Gauss's Law for Electricity

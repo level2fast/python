@@ -1,11 +1,42 @@
 # Linear Algebra
 This project is for learning Linear Algebra concepts. 
 
+---
+
 # Learning Strategy
 1. Use AI to  create an Q & A study guide based on questions from schaums guide
 2. Work 2 problems on paper and 2 in python for each concept
 3. Use a AI to create an exam covering all topics.
 4. Get 80% on exam
+
+---
+
+# Table of Contents
+- [Concepts to Learn](#concepts-to-learn)
+- [Goal](#goal)
+- [Linear Algebra Roadmap for LU, QR, and SVD](#linear-algebra-roadmap-for-lu-qr-and-svd)
+  - [1. Vectors](#1-vectors)
+  - [2. Matrix Operations](#2-matrix-operations)
+  - [3. Linear Systems](#3-linear-systems)
+- [Geometry of Linear Algebra](#geometry-of-linear-algebra)
+  - [4. Linear Transformations](#4-linear-transformations)
+  - [5. Basis and Coordinate Systems](#5-basis-and-coordinate-systems)
+  - [6. Rank](#6-rank)
+  - [7. Column Space and Null Space](#7-column-space-and-null-space)
+- [Orthogonality](#orthogonality)
+  - [8. Orthogonal Vectors](#8-orthogonal-vectors)
+  - [9. Orthogonal Matrices](#9-orthogonal-matrices)
+  - [10. Gram-Schmidt Orthogonalization](#10-gram-schmidt-orthogonalization)
+- [Determinants and Eigen Theory](#determinants-and-eigen-theory)
+  - [11. Determinants](#11-determinants)
+  - [12. Eigenvalues and Eigenvectors](#12-eigenvalues-and-eigenvectors)
+  - [13. Symmetric Matrices](#13-symmetric-matrices)
+- [Matrix Factorizations](#matrix-factorizations)
+  - [14. LU Decomposition](#14-lu-decomposition)
+  - [15. QR Decomposition](#15-qr-decomposition)
+  - [16. Singular Value Decomposition (SVD)](#16-singular-value-decomposition-svd)
+
+---
 
 # Concepts to learn
 1. Vectors
